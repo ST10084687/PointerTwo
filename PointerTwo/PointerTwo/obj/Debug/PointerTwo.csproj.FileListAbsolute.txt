@@ -1,0 +1,8 @@
+C:\Users\crais\source\repos\PointerTwo\PointerTwo\bin\Debug\PointerTwo.exe.config
+C:\Users\crais\source\repos\PointerTwo\PointerTwo\bin\Debug\PointerTwo.exe
+C:\Users\crais\source\repos\PointerTwo\PointerTwo\bin\Debug\PointerTwo.pdb
+C:\Users\crais\source\repos\PointerTwo\PointerTwo\obj\Debug\PointerTwo.csproj.AssemblyReference.cache
+C:\Users\crais\source\repos\PointerTwo\PointerTwo\obj\Debug\PointerTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\crais\source\repos\PointerTwo\PointerTwo\obj\Debug\PointerTwo.csproj.CoreCompileInputs.cache
+C:\Users\crais\source\repos\PointerTwo\PointerTwo\obj\Debug\PointerTwo.exe
+C:\Users\crais\source\repos\PointerTwo\PointerTwo\obj\Debug\PointerTwo.pdb
